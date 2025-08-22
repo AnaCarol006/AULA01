@@ -31,7 +31,7 @@ public class Exemplo05 {
             }
         }
         if(média < 6){
-            System.out.println("Reprovado!");
+            System.out.println("Reprovado");
         }
 
     }
